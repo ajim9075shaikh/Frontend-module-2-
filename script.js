@@ -38,6 +38,7 @@ let arr = [
          console.log(concantedarr);
       }
 
+      
       function consoleArr() {
         console.log('Consoling Array Variable',arr);
       }
